@@ -1,0 +1,29 @@
+{
+  "name": "saadqamar",
+  "version": "1.0.2",
+  "description": "<center><img width=\"550\" style=\"margin-bottom: 20px;\" src=\"img/card.png\" /></center>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "saadqamar": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadqamar01/npm-saadqamar.git"
+  },
+  "keywords": [
+    "saadqamar"
+  ],
+  "author": "Saad Qamar <saadqamar01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saadqamar01/npm-saadqamar/issues"
+  },
+  "homepage": "https://github.com/saadqamar01/npm-saadqamar#readme",
+  "dependencies": {
+    "colorette": "^1.0.7"
+  },
+  "devDependencies": {}
+}
